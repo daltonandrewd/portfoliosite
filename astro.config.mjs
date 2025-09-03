@@ -2,7 +2,7 @@ import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://mysite.com",
+  site: "https://portfolio.davis-space.com",
   devToolbar: {
     enabled: false,
   },
